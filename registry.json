@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "agent-1794680762245-cdfwtz",
+    "name": "Python-Agent-01",
+    "role": "engineer",
+    "runtime": "cli",
+    "capabilities": [],
+    "status": "idle",
+    "registeredAt": "2026-11-14T18:26:02.245Z"
+  }
+]
