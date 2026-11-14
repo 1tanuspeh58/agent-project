@@ -34,5 +34,14 @@
     "capabilities": [],
     "status": "idle",
     "registeredAt": "2026-11-14T18:29:22.222Z"
+  },
+  {
+    "id": "agent-1794681044120-jhenpp",
+    "name": "Python-Agent-01",
+    "role": "engineer",
+    "runtime": "cli",
+    "capabilities": [],
+    "status": "idle",
+    "registeredAt": "2026-11-14T18:30:44.120Z"
   }
 ]
