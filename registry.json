@@ -41,7 +41,10 @@
     "role": "engineer",
     "runtime": "cli",
     "capabilities": [],
-    "status": "idle",
-    "registeredAt": "2026-11-14T18:30:44.120Z"
+    "status": "working",
+    "registeredAt": "2026-11-14T18:30:44.120Z",
+    "currentTaskId": "6",
+    "currentTaskTitle": "Задача для Python-агента",
+    "lastHeartbeat": "2026-11-14T18:30:51.282Z"
   }
 ]
