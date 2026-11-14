@@ -25,5 +25,14 @@
     "capabilities": [],
     "status": "idle",
     "registeredAt": "2026-11-14T18:28:25.432Z"
+  },
+  {
+    "id": "agent-1794680962222-kmy20t",
+    "name": "Python-Agent-01",
+    "role": "engineer",
+    "runtime": "cli",
+    "capabilities": [],
+    "status": "idle",
+    "registeredAt": "2026-11-14T18:29:22.222Z"
   }
 ]
